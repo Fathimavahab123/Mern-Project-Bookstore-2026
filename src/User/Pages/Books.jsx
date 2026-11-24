@@ -42,7 +42,7 @@ function Books() {
             <div className='md:grid grid-cols-4 mt-5'>
               {/*Duplicate according to the book*/}
               <div className='shadow rounded p-3 m-4'>
-               <img width={'100%'} height={'300px'} src="https://assets.kmart.com.au/transform/55a21345-d911-4984-b269-025c51e670f4/42119258-1?io=transform:extend,width:1100,height:1375&quality=90" alt="bookcard" />
+               <img width={'100%'} height={'300px'} src="https://m.media-amazon.com/images/I/81q77Q39nEL.jpg" alt="bookcard" />
                <div className='flex flex-col justify-center items-center mt-4'>
                 <h2 className='text-blue-700 font-bold text-xl'>Author</h2>
                 <h3 className='text-lg'>Title</h3>
