@@ -8,7 +8,7 @@ import UploadStatus from '../Components/UploadStatus'
 import PurchaseHistory from '../Components/PurchaseHistory'
 
 function Profile() {
-  const[currentTab,setCurrentTab]=useState()
+  const[currentTab,setCurrentTab]=useState(1)
   return (
     <>
     <Header/>

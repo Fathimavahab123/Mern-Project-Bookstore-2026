@@ -15,7 +15,7 @@ function View() {
         <div className='md:grid grid-cols-4 gap-x-10'>
         {/*image*/}
         <div className='col-span-1'>
-          <img src="https://assets.kmart.com.au/transform/55a21345-d911-4984-b269-025c51e670f4/42119258-1?io=transform:extend,width:1100,height:1375&quality=90" alt="view book" />
+          <img src="https://m.media-amazon.com/images/I/81q77Q39nEL.jpg" alt="view book" />
         </div>
         <div className='col-span-3'>
         <div className='flex justify-between'>
@@ -57,7 +57,7 @@ function View() {
              <p className='flex items-center text-blue-500'><FaCamera className='me-3'/>Camera clicks of the books</p>
              <div className='flex flex-wrap my-5'>
                 {/*Duplicate image*/}
-                <img className='md:w-75 w-25 md:me-2 mb:3 md:mt-0' src="https://assets.kmart.com.au/transform/55a21345-d911-4984-b269-025c51e670f4/42119258-1?io=transform:extend,width:1100,height:1375&quality=90" alt="viewbook" />
+                <img className='md:w-75 w-25 md:me-2 mb:3 md:mt-0' src="https://m.media-amazon.com/images/I/81q77Q39nEL.jpg" alt="viewbook" />
              </div>
             </div>
           </div>
